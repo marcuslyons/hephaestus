@@ -1,0 +1,24 @@
+{
+  "name": "hephaestus",
+  "version": "0.0.1",
+  "description": "My design system monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "turbo dev",
+    "storybook": "turbo storybook"
+  },
+  "keywords": [
+    "design system",
+    "design tokens",
+    "turbo",
+    "monorepo",
+    "sveltekit",
+    "ui"
+  ],
+  "author": "Marcus Lyons <marcus.a.lyons@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "1.6.3"
+  }
+}
