@@ -1,10 +1,11 @@
 
 # Hephaestus
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 Personal Design System Monorepo
 
 The goal of this is to have a playground to implement and test design system workflows and automation, while speeding up personal project development.
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Tech Stack
 
