@@ -1,0 +1,11 @@
+{
+  "color": {
+    "base": {
+      "black": {"value": "#474747"},
+      "white": {"value": "#EFE6DD"},
+      "purple": {"value": "#6667AB"},
+      "red": { "value": "#EF3E36" },
+      "green": { "value": "#4FB286" }
+    }
+  }
+}

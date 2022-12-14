@@ -1,0 +1,19 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 14 Dec 2022 05:49:36 GMT
+ */
+
+:root {
+  --color-base-black: #474747;
+  --color-base-white: #efe6dd;
+  --color-base-purple: #6667ab;
+  --color-base-red: #ef3e36;
+  --color-base-green: #4fb286;
+  --color-font-base: #ef3e36;
+  --color-font-secondary: #4fb286;
+  --color-font-tertiary: #474747;
+  --size-font-small: 0.75rem; /* the small size of the font */
+  --size-font-medium: 1rem; /* the medium size of the font */
+  --size-font-large: 2rem; /* the large size of the font */
+  --size-font-base: 1rem; /* the base size of the font */
+}

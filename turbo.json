@@ -10,6 +10,11 @@
     "dev": {
       "outputs": []
     },
+    "tokens": {
+      "outputs": [
+        "build/**"
+      ]
+    },
     "storybook": {
       "outputs": []
     },
